@@ -17,6 +17,6 @@ class Perform{
 }
 
 const obj=new Perform(7,3);
-console.log('Hi');
+console.log('Hello world');
 obj.Add();
 obj.Sub();
