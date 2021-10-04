@@ -1,0 +1,26 @@
+{
+  "name": "add-sub-package",
+  "version": "1.0.0",
+  "description": "Add and Subtract Numbers",
+  "main": "main.js",
+  "dependencies": {
+    "user": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashPareek1222/AddSubPackage.git"
+  },
+  "keywords": [
+    "Add-Sub"
+  ],
+  "author": "Yash_Pareek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YashPareek1222/AddSubPackage/issues"
+  },
+  "homepage": "https://github.com/YashPareek1222/AddSubPackage#readme"
+}
