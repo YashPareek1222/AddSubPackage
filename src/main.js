@@ -1,6 +1,6 @@
 import user from "/Operation.js";
 
-class Perform{
+export default class Perform{
 
     constructor(A,B){
         this.A=A;
